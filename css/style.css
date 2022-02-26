@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300;400&family=Tajawal:wght@200;300&display=swap");
+
+@import url("components/container.css") ;
+@import url("components/avatar.css") ;
+@import url("components/button.css") ;
+@import url("components/banner.css") ;
+@import url("components/card.css") ;
+
+body{
+	font-family: 'tajawal';
+	font-weight: 300;
+	font-size: 18px;
+	margin: none;
+
+}
+
+h1{
+    font-family: 'serif pro';
+	font-weight: 400;
+	font-size: 30px;
+}
+
+h2, h3{
+    font-family: 'serif pro';
+	font-size: 30px;
+	font-weight: 100;
+
+}
+ 	
+h3{
+	color: white;
+}
+
+
+
+a{
+	text-decoration: none;
+	font-family: 'tajawal';
+	font-size: 18px;
+}
